@@ -8,6 +8,7 @@ Lunar: https://lunar.fyi/
 
 # Switch darkmode: 
 Nightowl: https://nightowl.kramser.xyz/
+
 DarkModeBuddy: https://insidegui.gumroad.com/l/darkmodebuddy
 
 # Zip: 
