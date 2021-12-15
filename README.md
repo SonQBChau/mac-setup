@@ -1,6 +1,6 @@
 # mac-setup
 
-# Window spliting: 
+# Move and resize windows: 
 Rectangle: https://rectangleapp.com/
 
 # External monitor
