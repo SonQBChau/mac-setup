@@ -3,6 +3,9 @@
 # change password length:
 https://apple.stackexchange.com/questions/337468/how-to-set-a-short-user-password-in-macos-mojave-and-later-10-14
 
+# Terminal:
+https://github.com/lysyi3m/macos-terminal-themes
+
 # Move and resize windows: 
 Rectangle: https://rectangleapp.com/
 
