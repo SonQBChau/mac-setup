@@ -1,5 +1,8 @@
 # mac-setup
 
+# change password length:
+https://apple.stackexchange.com/questions/337468/how-to-set-a-short-user-password-in-macos-mojave-and-later-10-14
+
 # Move and resize windows: 
 Rectangle: https://rectangleapp.com/
 
