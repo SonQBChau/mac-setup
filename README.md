@@ -22,3 +22,9 @@ The Unarchiver: app store
 
 # Torrent:
 qBittorent: https://www.qbittorrent.org/
+
+# R 
+Need to add `.Rprofile` for graph to show up inside VSCode
+https://renkun.me/2019/12/26/writing-r-in-vscode-interacting-with-an-r-session/
+https://renkun.me/2020/06/16/using-httpgd-in-vscode-a-web-based-svg-graphics-device/
+https://github.com/REditorSupport/vscode-R/wiki/R-Session-watcher
