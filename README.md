@@ -1,10 +1,10 @@
 # mac-setup
 
 # change password length:
-https://apple.stackexchange.com/questions/337468/how-to-set-a-short-user-password-in-macos-mojave-and-later-10-14
+https://discussions.apple.com/thread/250258029
 
-# Terminal:
-https://github.com/lysyi3m/macos-terminal-themes
+# Terminal color:
+https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/
 
 # Move and resize windows: 
 Rectangle: https://rectangleapp.com/
@@ -16,9 +16,6 @@ Lunar: https://lunar.fyi/
 Nightowl: https://nightowl.kramser.xyz/
 
 DarkModeBuddy: https://insidegui.gumroad.com/l/darkmodebuddy
-
-# Zip: 
-The Unarchiver: app store
 
 # Torrent:
 qBittorent: https://www.qbittorrent.org/
