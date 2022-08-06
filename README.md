@@ -1,6 +1,11 @@
 # mac-setup
 
 # change password length:
+```
+pwpolicy -clearaccountpolicies
+```
+System Preferences > Users & Groups & reset your password
+
 https://discussions.apple.com/thread/250258029
 
 # Terminal color:
