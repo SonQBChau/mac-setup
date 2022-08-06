@@ -1,6 +1,6 @@
 # Mac Setup
 
-## change password length:
+## Change password length:
 ```
 pwpolicy -clearaccountpolicies
 ```
