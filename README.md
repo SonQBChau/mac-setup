@@ -33,17 +33,21 @@ Go to your applications folder and right click (control-click) on the app you wa
 
 Click on Show contents. You should now be able to see "inside" the app's files.
 
-Open the Info.plist file in the Contents folder with TextEdit (right click -> "Open with...")
+Open the `Info.plist` file in the Contents folder with TextEdit (right click -> "Open with...")
 
 Go to the very bottom of the file and find the last two lines which should say:
 
+```
 </dict>
 </plist>
+```
 
 Now insert this before these two lines and save the file.
 
+```
 <key>LSUIElement</key>
 <true/>
+```
 
 After this the app's dock icon will not be shown anymore. Keep in mind that you will need to use the Activity Monitor or Terminal (killall <appname>) to quit the app if you close the window.
 
