@@ -1,6 +1,6 @@
 # How to ignore certain files on local development
 
-1. First, we have to remove it from cache (might want make a copy before **removing** it, but github desktop can reverse it easily)
+1. First, we have to remove it from cache (might want make a copy before **removing**, but github desktop can reverse it easily)
 
 ```
 $ git rm --cached FILENAME
