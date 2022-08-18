@@ -14,7 +14,7 @@ $ git rm --cached FILENAME
    
 ```
 $ git rm --cached .gitignore
-
+```
 
 5. Add .gitignore to .git/info/exclude
 
