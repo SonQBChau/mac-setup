@@ -8,7 +8,7 @@ $ git rm --cached FILENAME
 
 2. Then, we add it to .gitignore.
    
-3. Put back the file by copying the file back or by using github desktop reverse changes.
+3. Restore the file by copying the file back or by using github desktop reverse changes.
 
 4. Repeat step 1 for .gitignore.
    
