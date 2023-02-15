@@ -1,5 +1,5 @@
 # Mac Setup
-**Before clean up, backup vscode and Brave browser and .ssh**
+**Before clean up, backup vscode and Brave browser and .ssh, .zrch**
 
 ## Change password length:
 ```
