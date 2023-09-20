@@ -20,11 +20,6 @@ Rectangle: https://rectangleapp.com/
 ## External monitor
 Lunar: https://lunar.fyi/
 
-## Switch darkmode: 
-Nightowl: https://nightowl.kramser.xyz/
-
-DarkModeBuddy: https://insidegui.gumroad.com/l/darkmodebuddy
-
 ## Torrent:
 qBittorent: https://www.qbittorrent.org/
 
@@ -56,11 +51,3 @@ If closing the window quits the app, you can press cmd + h to hide the window. T
 
 To make it visible again, just remove those two lines again and the app should behave like before.
 
-## R 
-Need to add `.Rprofile` for graph to show up inside VSCode
-
-https://renkun.me/2019/12/26/writing-r-in-vscode-interacting-with-an-r-session/
-
-https://renkun.me/2020/06/16/using-httpgd-in-vscode-a-web-based-svg-graphics-device/
-
-https://github.com/REditorSupport/vscode-R/wiki/R-Session-watcher
