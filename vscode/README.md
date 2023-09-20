@@ -13,3 +13,5 @@ R
 Rainbow CSV
 Render Line Endings
 vscode-pdf
+
+https://code.visualstudio.com/docs/sourcecontrol/overview#_vs-code-as-git-editor
